@@ -1,11 +1,10 @@
 # Whats is this about?
 
 This is an Instagram clone project solely for educational purposes.
-It is made with React and Firebase.
+It is made with React and Firebase.\
 It is deployed and running live on Vercel here: [Instagram Clone](https://instagram-clone-phi-sable.vercel.app/sign-up)
 
-You might get a big Phishing warning on your browser (for obvious reasons), but you can ignore it and use the website without worry.
-
+You might get a big Phishing warning on your browser (for obvious reasons), but you can ignore it and use the website without worry.\
 Sign up and create an account (use your email and a random password).
 
 # Now it´s just default React Readme text that i decided to leave here
